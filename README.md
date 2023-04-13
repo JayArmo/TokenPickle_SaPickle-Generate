@@ -1,9 +1,9 @@
 # TELEGRAM
 [🧑‍💻 Owner](https://telegram.me/JayArmo)
 
-[📢 Update Channel](https://t.me/Jay_Bots)
+[📢 Update Channel](https://telegram.me/Jay_Bots)
 
-[♻️ Suppot Group](https://t.me/Jay_Bots_Discussion)
+[♻️ Suppot Group](https://telegram.me/Jay_Bots_Discussion)
 
 # How To Generate token_sa.pickle & token.pickle File 🗃️  With Android Easily After Google Auth2.0 New policy update. Without any kind of error.
 ### 1. Install Termux [F-Droid](https://f-droid.org/en/packages/com.termux/)
